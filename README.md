@@ -2,9 +2,9 @@
 
 ## Usage
 
-Just run the `startup.sh` script:
+Just run the `start.sh` script:
 
 ```Bash
-./startup.sh
+./start.sh
 ```
 
